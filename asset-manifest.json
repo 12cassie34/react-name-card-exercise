@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-name-card-exercise/static/css/main.1d3fe4fc.css",
+    "main.js": "/react-name-card-exercise/static/js/main.fb1c3707.js",
+    "static/js/787.53e01216.chunk.js": "/react-name-card-exercise/static/js/787.53e01216.chunk.js",
+    "static/media/profile.jpg": "/react-name-card-exercise/static/media/profile.9dbba9091f3e9b81c7fd.jpg",
+    "index.html": "/react-name-card-exercise/index.html",
+    "main.1d3fe4fc.css.map": "/react-name-card-exercise/static/css/main.1d3fe4fc.css.map",
+    "main.fb1c3707.js.map": "/react-name-card-exercise/static/js/main.fb1c3707.js.map",
+    "787.53e01216.chunk.js.map": "/react-name-card-exercise/static/js/787.53e01216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3fe4fc.css",
+    "static/js/main.fb1c3707.js"
+  ]
+}
